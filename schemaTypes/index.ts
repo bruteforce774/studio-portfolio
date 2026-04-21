@@ -1,3 +1,3 @@
 import { categoryType } from './categoryType'
 
-export const schemaTypes = [categoryType]
+export const schemaTypes = [categoryType, authorType]
